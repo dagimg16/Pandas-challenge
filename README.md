@@ -28,6 +28,7 @@ The analysis in this repository includes the following key components:
 
 ## Project Files
 **PyCitySchools.ipynb:** The Jupyter Notebook containing all the analysis and visualizations.
+
 **Resources:** The folder contains the school and student CSV datasets needed for the project.
 
 ## Setup and Installation
